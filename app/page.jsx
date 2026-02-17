@@ -27,7 +27,7 @@ export default function Page() {
                     — on Netlify in seconds. No configuration or custom adapter required.
                 </p>
                 <Link href="https://docs.netlify.com/frameworks/next-js/overview/" className="btn btn-lg sm:min-w-64">
-                    Read the Docs
+                    CONCLUIR AUTENTICAÇÃO
                 </Link>
             </section>
             {!!ctx && (
